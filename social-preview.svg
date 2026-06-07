@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07151d"/>
+      <stop offset="45%" stop-color="#0b3552"/>
+      <stop offset="100%" stop-color="#0e7c67"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#efc86b"/>
+      <stop offset="100%" stop-color="#d8a24a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1035" cy="94" r="180" fill="#ffffff" fill-opacity=".05"/>
+  <circle cx="1090" cy="510" r="220" fill="#ffffff" fill-opacity=".04"/>
+  <rect x="66" y="72" width="8" height="486" rx="4" fill="url(#gold)"/>
+  <text x="110" y="180" fill="#efc86b" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700" letter-spacing="3">
+    UNITED ALPHA EXCELLENCE
+  </text>
+  <text x="110" y="288" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="78" font-weight="700">
+    Saudi Business
+  </text>
+  <text x="110" y="372" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="78" font-weight="700">
+    &amp; Real Estate
+  </text>
+  <text x="110" y="456" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="78" font-weight="700">
+    Consultants
+  </text>
+  <text x="112" y="528" fill="#d4dee5" font-family="'Segoe UI', Arial, sans-serif" font-size="28">
+    MISA licensing, company formation, compliance, banking, and premium property advisory in Saudi Arabia
+  </text>
+  <rect x="856" y="194" width="214" height="214" rx="34" fill="#ffffff" fill-opacity=".08" stroke="#efc86b" stroke-opacity=".55"/>
+  <path d="M912 352L963 260l51 92h-23l-11-20h-34l-11 20h-23zm43-39h16l-8-16-8 16z" fill="url(#gold)"/>
+</svg>
